@@ -98,7 +98,6 @@ a {
 
 /* Header */
 .header {
-    padding-bottom: 88px;
     position: sticky;
     top: 0;
     z-index: 1111;
